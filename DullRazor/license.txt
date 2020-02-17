@@ -1,0 +1,22 @@
+License for DullRazor for Window
+
+Copyright (c) 2003, British Columbia Cancer Agency
+Copyright (c) 2003, Tim Lee
+
+Permission to use and copy this software and its documentation for any
+non-commercial purpose is hereby granted without fee, provided that the
+above copyright notice appear in all copies and that both copyright
+notice and this permission notice appear in supporting documentation.
+Permission to distribute the source codes is based on the agreement with
+the British Columbia Cancer Agency.
+
+British Columbia Cancer Agency and Tim Lee make no representations
+about the suitability of this software for any purpose.  It is provided
+"as is" without express or implied warranty.  British Columbia Cancer Agency
+and Tim Lee disclaim all warranties with regard to this software,
+including all implied warranties of merchantability and fitness.
+In no event shall British Columbia Cancer Agency or Tim Lee be liable for
+any special, indirect or consequential damages or any damages whatsoever
+resulting from loss of use, data or profits, whether in an action of
+contract, negligence or other tortuous action, arising out of or in
+connection with the use or performance of this software.
